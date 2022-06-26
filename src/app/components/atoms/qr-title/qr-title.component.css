@@ -1,0 +1,6 @@
+h1 {
+    font-size: 1.54rem;
+    text-align: center;
+    font-weight: var(--font-weight2);
+    color: var(--color-dark-blue);
+}

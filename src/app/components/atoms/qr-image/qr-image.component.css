@@ -1,0 +1,11 @@
+.conainer-img {
+    overflow: hidden;
+    height: 290px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.conainer-img>img {
+    height: auto;
+    width: 100%;
+}

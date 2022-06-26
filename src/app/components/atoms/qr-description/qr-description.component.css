@@ -1,0 +1,5 @@
+p {
+    color: var(--color-grayish-blue);
+    width: 260px;
+    text-align: center;
+}

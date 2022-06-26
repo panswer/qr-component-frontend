@@ -1,0 +1,9 @@
+.container-qr {
+    background-color: var(--color-white);
+    width: 310px;
+    height: 465px;
+    border-radius: 15px;
+    font-family: 'Outfit';
+    padding: 1rem;
+    box-shadow: 15px 25px 30px 0px var(--color-shadow);
+}
